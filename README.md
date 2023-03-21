@@ -22,4 +22,6 @@
 
 <div align="center">
   <a href= "https://www.linkedin.com/in/vinicius-garcia-268274163/" target="_blank">  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"> </img></a>
+  <a href= "[https://www.linkedin.com/in/vinicius-garcia-268274163/](https://www.instagram.com/vini.dsg_/)" target="_blank">  <img src="[https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)" target="_blank"> </img></a>
+  
 </div>
