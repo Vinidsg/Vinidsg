@@ -7,7 +7,7 @@
 
 
 <div style="display: inline_block" align="center"><br>
-  <img align="center" alt="Java" height="180cm"  src="https://github-readme-stats.vercel.app/api?username=Vinidsg&show_icons=true&theme=dark"> 
+  <img margin="100px" align="center" alt="Java" height="180cm"  src="https://github-readme-stats.vercel.app/api?username=Vinidsg&show_icons=true&theme=dark"> 
   <img align="center" alt="HTML" height="180cm"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vinidsg&layout=compact&theme=dark">
 </div>
  
