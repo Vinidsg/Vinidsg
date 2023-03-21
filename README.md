@@ -2,6 +2,7 @@
 
 <div style="display: inline_block" align="center"><br>
   <h1> Hi there, my name is Vinicius, welcome to my GitHub's profile! </h1>
+  <p> I'm an Information Technology student, I've an analytical and organized profile, which allows me to create precise and clean codes. I love programming, the concept of developing something complex in an abstract way motivates me.</p>
 </div>
 
 
